@@ -9,7 +9,6 @@
 .tituloh1{
     font-family: 'Amiri';
     text-align: center;
-    margin-top: 10rem;
     font-size: 2rem;
 }
 .tituloh2{
@@ -40,15 +39,24 @@
     padding: 0.5rem 1rem;
     border: none;
     color: white;
-    background-color: #d4e2d0;
-    border-radius: 5px;
+    background-color: #105708;
+    border-radius: 2px;
     font-size: 1rem;
     font-family: 'Amiri';
     margin-top: 1rem;
 }
+.presenteslink:hover{
+    background-color: #d4e2d0;
+    color: rgb(0, 44, 7);
+    cursor: pointer;
+    transition: 0.3s ease;
+}
 .fotoinicio{
     width: 20rem;
     margin: 2rem 0;
+}
+.logo{
+    width: 6rem;
 }
 .verso{
     font-family: 'Great Vibes';
@@ -63,7 +71,7 @@ ul li{
     align-items: center;
 }
 ul li i{
-
+    color: rgb(7, 67, 7);
     margin-right: 0.5rem;
 }
 .gif{
