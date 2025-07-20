@@ -5,6 +5,9 @@
     position: 0;
     margin: 0;
 }
+body{
+    overflow-x: hidden;
+}
 
 .tituloh1{
     font-family: 'Amiri';
@@ -76,4 +79,12 @@ ul li i{
 }
 .gif{
     width: 25rem;
+}
+.igreja{
+    width: 25rem;
+    border-radius: 2px;
+    background-size: cover;
+}
+.countdown-timer{
+    margin: 1rem 0;
 }
