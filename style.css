@@ -12,6 +12,12 @@
     margin-top: 10rem;
     font-size: 2rem;
 }
+.tituloh2{
+    font-family: 'Great Vibes';
+    text-align: center;
+    margin-top: 10rem;
+    font-size: 2rem;
+}
 .nome{
     font-family:'Great Vibes';
     font-size: 3rem;
@@ -23,9 +29,43 @@
     height: 25rem;
     background-position: center;
     text-align: center;
+    margin-bottom: 3rem;
 }
-.manual{
+.manual, .local, .presentes{
     text-align: center;
     padding: 1rem;
 }
 
+.presenteslink{
+    padding: 0.5rem 1rem;
+    border: none;
+    color: white;
+    background-color: #d4e2d0;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-family: 'Amiri';
+    margin-top: 1rem;
+}
+.fotoinicio{
+    width: 20rem;
+    margin: 2rem 0;
+}
+.verso{
+    font-family: 'Great Vibes';
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+
+ul li{
+    list-style: none;
+    padding: 0.2rem;
+    text-align: center;
+    align-items: center;
+}
+ul li i{
+
+    margin-right: 0.5rem;
+}
+.gif{
+    width: 25rem;
+}
