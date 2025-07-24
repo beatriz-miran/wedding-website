@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Great+Vibes&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body{
+    align-items: center;
+    text-align: center;
+}
+.tituloh2{
+    font-family: 'Poppins';
+    padding: 1rem;
+    font-weight: 600;
+}
+.card-img-top{
+    height: 11rem;
+    object-fit: cover;
+}
+.card{
+    width: 13rem;
+    gap: -1000px;
+    box-shadow: 0rem 0.2rem 1rem rgba(69, 69, 69, 0.279);
+}
+.card-text{
+    font-size: 14px;
+}
+
+.presenteslink{
+    padding: 0.5rem 1rem;
+    border: none;
+    color: white;
+    background-color: #105708;
+    border-radius: 2px;
+    font-size: 1.3rem;
+    font-family: 'Amiri';
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
