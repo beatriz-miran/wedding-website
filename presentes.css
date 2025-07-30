@@ -23,10 +23,7 @@ span{
     height: 11rem;
     object-fit: cover;
 }
-.card{
-    width: 35%;
-    box-shadow: 0rem 0.2rem 1rem rgba(69, 69, 69, 0.279);
-}
+
 .card-text{
     font-size: 14px;
 }
@@ -41,4 +38,18 @@ span{
     font-family: 'Amiri';
     margin-top: 1rem;
     margin-bottom: 2rem;
+}
+.row{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col{
+    padding: 1rem;
+}
+.card{
+    width: 100%;
+    max-width: 300px;
+    box-shadow: 0rem 0.2rem 1rem rgba(69, 69, 69, 0.279);
 }
