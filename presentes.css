@@ -15,8 +15,7 @@ body{
     object-fit: cover;
 }
 .card{
-    width: 13rem;
-    gap: -1000px;
+    width: 35%;
     box-shadow: 0rem 0.2rem 1rem rgba(69, 69, 69, 0.279);
 }
 .card-text{
